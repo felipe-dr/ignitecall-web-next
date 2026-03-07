@@ -23,6 +23,7 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
+    "@ignite-ui/react": "2.2.4",
     "next": "13.0.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
